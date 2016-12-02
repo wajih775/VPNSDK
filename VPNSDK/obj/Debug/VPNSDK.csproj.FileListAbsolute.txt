@@ -1,0 +1,5 @@
+C:\TrialWajih\VPNSDK\VPNSDK\bin\Debug\VPNSDK.dll
+C:\TrialWajih\VPNSDK\VPNSDK\bin\Debug\VPNSDK.pdb
+C:\TrialWajih\VPNSDK\VPNSDK\obj\Debug\VPNSDK.csprojResolveAssemblyReference.cache
+C:\TrialWajih\VPNSDK\VPNSDK\obj\Debug\VPNSDK.dll
+C:\TrialWajih\VPNSDK\VPNSDK\obj\Debug\VPNSDK.pdb
